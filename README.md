@@ -7,6 +7,7 @@ I invite you to contribute to this repository by adding your own programs. Pleas
 ## Getting Started :rocket:
 
 I have just started learning C++ and I am still a beginner. I am trying to learn as much as I can. I have created this repository to keep track of my progress and to help others who are also learning C++.
+
 Let's learn together and collaborate! :smile:
 
 ## How to Contribute? :thinking:
@@ -27,12 +28,12 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for more details on how to contr
   - Description of the program
   - Input and Output
   - Please add your name and GitHub profile link in the README.md file.
-  - Please add comments to your program to make it easier to understand. (Optional)
+- Please add comments to your program to make it easier to understand. (Optional)
 
-### License :page_facing_up:
+## License :page_facing_up:
 
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
 
-### Looking forward to learning and collaborating with you! :smile:
+### Looking forward to learning and collaborating with you! 🛠
 
 <img src="https://octodex.github.com/images/welcometocat.png" width= 350/>
