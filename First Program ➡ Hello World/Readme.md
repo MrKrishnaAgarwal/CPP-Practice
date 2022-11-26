@@ -4,7 +4,7 @@ This is a simple program that prints "Hello World!" to the console.
 
 ### Code
 
-You can find the code written by me [here](/First%20Program/first_program.cpp)
+You can find the code written by me [here](/First%20Program%20%E2%9E%A1%20Hello%20World/first_program.cpp)/
 
 **Note: It can be written in many ways, this is just one of them.**
 
