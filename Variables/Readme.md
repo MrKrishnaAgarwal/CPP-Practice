@@ -9,7 +9,7 @@ You can find the code written by me [here](/Variables/variables.cpp).
 ### Output
 
 ```bash
-The sum of a, b and c is: 600"
+The sum of a, b and c is: 600
 ```
 
 ### Explanation
